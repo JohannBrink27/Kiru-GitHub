@@ -1,3 +1,3 @@
 # Kiru-GitHub
-Allow others to download files
-readme edit 1 2017/11/10
+Allow others to download files. 
+Readme edit 1 on 2017/11/10.
